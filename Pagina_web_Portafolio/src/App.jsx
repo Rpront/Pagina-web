@@ -4,7 +4,6 @@ import {Navbar,Hero,Facebook,Instagram,Twitter,Linkedin,Github,Discord} from './
 const App = () => (
 
   <div className="bg-primary w-full overflow-hidden ">
-    <h1>Pagina web</h1>
     <div className={'${styles.paddingX} ${styles.flexCenter} '}>
       <div className={'${styles.bixWidth}'}>
         <Navbar />
