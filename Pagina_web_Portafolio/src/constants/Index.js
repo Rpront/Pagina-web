@@ -2,20 +2,28 @@ import {C,C_plus,CSS,Excel,Facebook,Github,HTML,Instagram,Java,JavaScript,Linked
 
 export const navLinks = [
   {
-    id: "home",
-    title: "Home",
+    id: "introduccion",
+    title: "Introduccion",
   },
   {
-    id: "features",
-    title: "Features",
+    id: "habilidades",
+    title: "Habilidades",
   },
   {
-    id: "product",
-    title: "Product",
+    id: "portafolio",
+    title: "Portafolio",
   },
   {
-    id: "clients",
-    title: "Clients",
+    id: "hobby",
+    title: "Hobby",
+  },
+  {
+    id: "trabajos_deseados",
+    title: "Trabajos Deseados",
+  },
+  {
+    id: "contactos",
+    title: "Contactos",
   },
 ];
 
